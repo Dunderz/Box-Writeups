@@ -1,4 +1,4 @@
-![Alt text](assets/images/image1.png)
+![Alt text](assets/pelican/image1.png)
 
 this is some text
 
@@ -10,4 +10,4 @@ this is some text
 nmap <target ip> -sC -sS -sV -Pn -p- -T4 --min-rate 10000
 ```
 
-![Alt text](assets/images/image.png)
+![Alt text](assets/pelican/image.png)
