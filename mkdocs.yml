@@ -5,6 +5,15 @@ nav:
 
   - Proving Grounds:
       - Pelican: pelican.md
+      - Payday: payday.md
+      - Snookums: snookums.md
+      - Nibbles: nibbles.md
+      - Hetemit: hetemit.md
+      - ZenPhoto: zenphoto.md
+      - Nukem: nukem.md
+      - Cockpit: cockpit.md
+      - Extplorer: extplorer.md
+      - Postfish: postfish.md
 
 theme:
   name: material
