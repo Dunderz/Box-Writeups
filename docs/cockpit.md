@@ -1,0 +1,1 @@
+Cockpit is an intermediate Proving Grounds box, also rated as intermediate by the community. This machine involves SQL injection to gain access to an in-browser terminal where we exploit `tar` checkpoints to gain privilege escalation.
