@@ -1,0 +1,1 @@
+Postfish is an intermediate Proving Grounds box, also rated as very hard by the community. We gain an initial foothold through a phishing campaign. After that, privilege escalation is achieved by exploiting the `mail` binary.
