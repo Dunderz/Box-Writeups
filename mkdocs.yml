@@ -13,7 +13,7 @@ nav:
       - Nukem: nukem.md
       - Cockpit: cockpit.md
       - Extplorer: extplorer.md
-      - Postfish: postfish.md
+      # - Postfish: postfish.md
 
 theme:
   name: material
